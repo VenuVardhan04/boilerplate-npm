@@ -1,5 +1,6 @@
-{        "author":"VenuVardhan",
+{        
 	"name": "fcc-learn-npm-package-json",
+	"author":"VenuVardhan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
